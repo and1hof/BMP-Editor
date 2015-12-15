@@ -2,7 +2,7 @@
 A BMP image editor with several built-in filters for modifying 16, 24 and 32 bit BMP image files.
 
 ### PREREQUISITES
-A Linux machine and at least one 16/24/32 bit BMP image file
+A Linux machine and at least one 16/24/32 bit BMP image file.
 
 ### GETTING STARTED
 Compile the software in C90 mode using the make-file provided.
